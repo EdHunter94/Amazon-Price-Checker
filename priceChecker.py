@@ -3,9 +3,9 @@ from yelpapi import yelpapi
 
 
 
-
-access_key = "AKIAJJE4GABFJU7OGNIQ"
-seller_id = "ATJR1LYAM2AQI"
+#obviously add your own keys, these are just examples
+access_key = "AKIAJJE4GABFJU7ER#OGNIQ"
+seller_id = "ATJR1LYAM2DFAQI"
 secret_key = "rG8wib090q56CM0Yb8fcO2TMENz2J1sjmrchJIP4"
 marketplace_usa = "ATVPDKIKX0DER"
 
